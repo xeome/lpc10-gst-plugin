@@ -4,7 +4,7 @@
 
 ### *High-quality, low-bitrate voice coding at 2.4 kbps*
 
-[![License](https://img.shields.io/badge/license-LGPL-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL3-blue.svg)](LICENSE)
 [![GStreamer](https://img.shields.io/badge/GStreamer-1.6%2B-green.svg)](https://gstreamer.freedesktop.org/)
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](https://www.kernel.org/)
 [![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)](CMakeLists.txt)
